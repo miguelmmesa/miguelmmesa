@@ -1,39 +1,63 @@
 # Miguel Ángel Martín Mesa
 
 Computer Engineering Student
-Building structured technical systems, documentation and engineering projects.
+Building structured systems, technical documentation and engineering projects.
+
+Systems • Documentation • Engineering
 
 ---
 
-## About me
+## About
 
-I am currently studying **Computer Engineering** and developing a professional ecosystem that combines:
+I am currently studying **Computer Engineering** and developing a long-term professional ecosystem focused on:
 
-* software engineering
-* system architecture
-* technical documentation
-* structured knowledge systems
+• software engineering
+• systems architecture
+• technical documentation
+• structured knowledge systems
 
 My goal is to build projects that demonstrate **technical thinking, clarity of documentation and structured problem solving**.
 
-This GitHub profile serves as the **technical backbone of my professional development**.
+This GitHub profile functions as the **technical backbone of that ecosystem**.
 
 ---
 
-## What I am currently building
+## Start Here
 
-I am working on developing a **long-term professional ecosystem** composed of several interconnected platforms.
+If this is your first time visiting this profile:
 
-The idea is to build a coherent system where each platform has a specific role.
+**Main Project**
 
-GitHub
-Technical portfolio and engineering projects
+LaTeX Academic Template
+https://github.com/miguelmmesa/latex-university-template
+
+**Professional Links**
+
+Linktree
+https://linktr.ee/miguelmmesa
 
 LinkedIn
-Professional public presence
+https://www.linkedin.com/in/miguelmmesa/
 
-Personal Website *(in development)*
-Central hub integrating projects, documentation and ideas
+---
+
+## Current Focus
+
+I am currently building a structured professional ecosystem composed of several interconnected platforms.
+
+Each platform has a specific role within the system.
+
+```
+                 Personal Website
+                (in development)
+                        │
+                        │
+LinkedIn ─────── Linktree ─────── GitHub
+Professional     Central hub     Technical
+presence                        portfolio
+```
+
+GitHub hosts the **technical layer** of the system: projects, documentation and engineering work.
 
 ---
 
@@ -41,21 +65,20 @@ Central hub integrating projects, documentation and ideas
 
 ### LaTeX Academic Template
 
-A professional modular LaTeX template designed for academic and technical writing.
+A modular LaTeX template designed for academic and technical writing.
 
-Repository:
-
+Repository
 https://github.com/miguelmmesa/latex-university-template
 
-Features:
+Key features
 
-* modular architecture
-* institutional academic formatting
-* automatic figures, tables and algorithm lists
-* bibliography management
-* acronym management
-* GitHub automated LaTeX compilation
-* ready for Overleaf workflows
+• modular project architecture
+• institutional academic formatting
+• automatic lists of figures, tables and algorithms
+• bibliography management (BibLaTeX)
+• acronym management
+• automated LaTeX compilation via GitHub Actions
+• ready for Overleaf workflows
 
 This project was designed both as a **practical tool** and as an exercise in **structured technical documentation**.
 
@@ -67,31 +90,33 @@ This project was designed both as a **practical tool** and as an exercise in **s
 
 Currently in conceptual design and wireframing phase.
 
-The goal is to create a personal website that:
+Goal:
 
-* centralizes projects
-* documents technical learning
-* integrates my professional narrative
+• centralize projects
+• document technical learning
+• integrate long-term professional narrative
+
+---
 
 ### Future Technical Projects
 
 Planned repositories include:
 
-* software engineering projects
-* system architecture exercises
-* technical documentation experiments
-* academic and engineering templates
+• software engineering projects
+• system architecture experiments
+• networking and systems exercises
+• technical documentation frameworks
 
 ---
 
 ## Areas of Interest
 
-* Software Engineering
-* Systems Architecture
-* Technical Documentation
-* Knowledge Systems
-* Project Organization
-* Engineering Education
+Software Engineering
+Systems Architecture
+Technical Documentation
+Knowledge Systems
+Project Organization
+Engineering Education
 
 ---
 
@@ -99,28 +124,13 @@ Planned repositories include:
 
 One of my main interests is the **systematization of professional development**.
 
-Instead of creating isolated projects, I try to build a coherent structure where:
+Instead of creating isolated projects, I aim to build a coherent structure where:
 
-* projects demonstrate real technical skills
-* documentation explains decisions and learning
-* platforms reinforce each other
+• projects demonstrate real technical skills
+• documentation explains decisions and learning
+• platforms reinforce each other
 
-This GitHub profile is the **technical layer of that system**.
-
----
-
-## Professional Ecosystem
-
-This GitHub profile is part of a broader professional ecosystem:
-
-LinkedIn
-Professional presence and communication
-
-GitHub
-Technical portfolio and documentation
-
-Personal Website *(in development)*
-Integration of projects and long-term narrative
+This GitHub profile represents the **engineering layer of that structure**.
 
 ---
 
@@ -134,4 +144,3 @@ https://github.com/miguelmmesa
 
 LinkedIn
 https://www.linkedin.com/in/miguelmmesa/
-
